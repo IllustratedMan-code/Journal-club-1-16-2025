@@ -23,18 +23,12 @@ jobs:
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-      - uses: DerYeger/yarn-setup-action@master
-        with:
-          node-version: 16
-
-      - name: Yarn Build
-        run: yarn build
 
       - name: Upload static files as artifact
         id: deployment
         uses: actions/upload-pages-artifact@v3 # or specific "vX.X.X" version tag for this action
         with:
-          path: ./dist
+          path: ./.
         # Deployment job
   deploy:
     environment:
