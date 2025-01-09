@@ -1,5 +1,6 @@
+import { defineConfig } from "vite";
 
-export default {
+export default defineConfig ({
   plugins: [
     {
       name: 'reload',
@@ -14,5 +15,6 @@ export default {
         })
       }
     }
-  ]
-}
+  ],
+  publicDir: "images"
+});
