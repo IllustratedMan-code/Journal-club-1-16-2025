@@ -15,3 +15,20 @@ Reveal.initialize({
     history: "true",
     plugins: [Markdown, Highlight, Notes],
 });
+
+function loadIncludes() {
+        return Promise.all(
+          [...document.querySelectorAll("include")].map((include) => {
+            return fetch(include.getAttribute("src"))
+              .then((response) => response.text())
+              .then((html) => (include.outerHTML = html))
+              .catch(console.err);
+          })
+        );
+      }
+      loadIncludes().then(() => {
+        Reveal.initialize({
+          hash: true,
+          plugins: [Markdown, Highlight, Notes],
+        });
+      });
