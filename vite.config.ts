@@ -7,7 +7,7 @@ export default defineConfig ({
       configureServer(server) {
         const { ws, watcher } = server
         watcher.on('change', file => {
-          if (file.endsWith('.md')) {
+          if (file.endsWith('.md') || file.endsWith(".html")) {
             ws.send({
               type: 'full-reload'
             })
@@ -16,5 +16,7 @@ export default defineConfig ({
       }
     }
   ],
+  optimizeDeps: {
+  },
   publicDir: "public"
 });
