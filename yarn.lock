@@ -200,10 +200,10 @@ reveal.js-pointer@^0.1.4:
   resolved "https://registry.yarnpkg.com/reveal.js-pointer/-/reveal.js-pointer-0.1.4.tgz#cee826c3b5e799634e2b90781d2a63308562b087"
   integrity sha512-nmCuFBQuyjmkwU6IrWYt/xFSI9PJQ6VNyZljlaqDnquBoJ/f3/41l2ceM/kGmL2Fch1NKRX2CbLwGJp6UfVLWg==
 
-reveal.js@^4.3.1:
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/reveal.js/-/reveal.js-4.3.1.tgz#24a63300cff92cf5cbdd40a46f5d3699614d49ca"
-  integrity sha512-1kyEnWeUkaCdBdX//XXq9dtBK95ppvIlSwlHelrP8/wrX6LcsYp4HT9WTFoFEOUBfVqkm8C2aHQ367o+UKfcxw==
+reveal.js@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/reveal.js/-/reveal.js-5.1.0.tgz#dfaa4631127e739aa8ebbaa425d653e72d799e66"
+  integrity sha512-KDt7m0+xwKV6nAZt4CNPVFBf42sTKRQapg0bGGKB5PKO5XvChnMfwlZkybydHiQJ7p5+6LbHKRGrhXODdoNIaA==
 
 rollup@^2.75.6:
   version "2.77.0"
