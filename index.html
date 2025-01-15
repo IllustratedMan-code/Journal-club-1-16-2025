@@ -71,6 +71,28 @@
               cover later.
             </aside>
           </section>
+
+          <section name="matrix-representation">
+            <div
+              style="
+                display: grid;
+                grid-template-columns: 50% 50%;
+                grid-gap: 5%;
+              "
+            >
+              <div>
+                \[ \begin{array}{c|ccc} & TF1 & TF2 & \sigma \\ \hline TF1 & 0 &
+                -1 & -1 \\ TF2 & 0 & 0 & 1 \\ \sigma & 0 & 1 & 0\end{array} \]
+              </div>
+              <div><image src="./images/matrix-network.svg"></image></div>
+            </div>
+
+            <aside class="notes">
+              Node directed edge connections are represented by a matrix.
+              Notably, in an ideal network, the matrix is sparse (i.e. each node
+              has relatively few connections)
+            </aside>
+          </section>
         </section>
 
         <include src="watch-metaphor.html"></include>
@@ -81,6 +103,21 @@
             <li>"Infer" a transcriptional regulatory network</li>
             <li>Evaluate the model with experimental data</li>
           </ul>
+        </section>
+
+        <section name="performance">
+          <table>
+            <tr>
+              <th>Novel Regulatory Interactions</th>
+              <th>Recall of Prior Interactions</th>
+              <th>Accuracy</th>
+            </tr>
+            <tr>
+              <th>2,258</th>
+              <th>74%</th>
+              <th>62%</th>
+            </tr>
+          </table>
         </section>
         <include src="figure1.html"></include>
         <include src="figure2.html"></include>

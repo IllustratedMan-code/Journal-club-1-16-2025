@@ -2,4 +2,76 @@
   <section>
     <image src="./images/figure1.png" />
   </section>
+  <section>
+    <image src="./images/figure1-tf-activity.png" />
+  </section>
+  <section>
+    "(TF) <em>activity</em> is a latent variable pooling the effects of
+    post-transcriptional and post-translational modifications."
+    <aside class="notes">
+      Let's break this down. TF activity is a "latent" variable, meaning that it
+      is not directly observable. This definition is a little obtuse. It
+      essentially means "whatever the protein is doing after it is made".
+      Because TF activity is not directly observable, the activity must be
+      estimated using other variables that are accessible. Namely, known
+      interactions using the Subtiwiki and the transcriptional data.
+    </aside>
+  </section>
+  <section data-auto-animate>
+    <p>Network Component Analysis</p>
+  </section>
+  <section data-auto-animate>
+    <p>Network Component Analysis</p>
+    <p>\[ X_{i,j} = \sum_{k \in TFs} P_{i,k}A_{k,j} \]</p>
+  </section>
+  <section data-auto-animate>
+    <p>\[ X_{i,j} = \sum_{k \in TFs} P_{i,k}A_{k,j} \]</p>
+    <ul>
+      <li>\(X = \text{Matrix of gene expression values}\)</li>
+      <li>\(P = \text{Matrix of prior network interactions}\)</li>
+      <li>\(A = \text{Matrix of connected TF activities}\)</li>
+    </ul>
+  </section>
+  <section data-auto-animate>
+    <p>\[ X_{i,j} = \sum_{k \in TFs} P_{i,k}A_{k,j} \]</p>
+    <ul>
+      <li>\(X = \text{Matrix of gene expression values}\)</li>
+      <li>rows = genes</li>
+      <li>columns = samples</li>
+    </ul>
+  </section>
+  <section data-auto-animate>
+    <p>\[ X_{i,j} = \sum_{k \in TFs} P_{i,k}A_{k,j} \]</p>
+    <ul>
+      <li>\(P = \text{Matrix of prior network interactions}\)</li>
+      <li>rows = genes</li>
+      <li>columns = TFs</li>
+    </ul>
+    <aside class="notes">
+      This is an example of network component analysis.
+    </aside>
+  </section>
+  <section data-auto-animate>
+    <p>\[ X_{i,j} = \sum_{k \in TFs} P_{i,k}A_{k,j} \]</p>
+    <ul>
+      <li>\(A = \text{Matrix of connected TF activities}\)</li>
+      <li>rows = TFs</li>
+      <li>columns = samples</li>
+    </ul>
+  </section>
+  <section data-auto-animate>
+    <p>\[ X_{i,j} = \sum_{k \in TFs} P_{i,k}\textcolor{red}{A_{k,j}} \]</p>
+  </section>
+  <section data-auto-animate>
+    <p>\[ X_{i,j} = \sum_{k \in TFs} P_{i,k}\textcolor{red}{A_{k,j}} \]</p>
+    <p>\[ X = P\textcolor{red}{A} \]</p>
+  </section>
+  <section data-auto-animate>
+    <p>\[ X = P\textcolor{red}{A} \]</p>
+    <p>overdetermined system</p>
+  </section>
+  <section data-auto-animate>
+    <p>overdetermined system</p>
+    <p></p>
+  </section>
 </section>
