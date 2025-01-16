@@ -69,9 +69,48 @@
   <section data-auto-animate>
     <p>\[ X = P\textcolor{red}{A} \]</p>
     <p>overdetermined system</p>
+    <aside class="notes">An overdetermined system has multiple solutions</aside>
   </section>
   <section data-auto-animate>
     <p>overdetermined system</p>
-    <p></p>
+    <p>\[||P \textcolor{red}{\hat A} - X||^2\]</p>
+    <aside class="notes">Minimize this.</aside>
+  </section>
+  <section>
+    <image src="./images/figure1-inferelator.png"></image>
+  </section>
+  <section data-auto-animate>
+    <p>\[ X = \beta \hat A \]</p>
+  </section>
+  <section data-auto-animate>
+    <p>\[ X = \textcolor{red}{\beta} \hat A \]</p>
+  </section>
+  <section data-auto-animate>
+    <p>\[ X = \textcolor{red}{\beta} \hat A \]</p>
+    <p>
+      \[ X_{i, j} = \sum_{k \in TFs} \textcolor{red}{\beta}_{i, k} \hat A_{k, j}
+      \]
+    </p>
+  </section>
+  <section data-auto-animate>
+    <p>
+      \[ X_{i, j} = \sum_{k \in TFs} \textcolor{red}{\beta}_{i, k} \hat A_{k, j}
+      \]
+    </p>
+    <p>Sparse solution with BBSR</p>
+    <aside class="notes">
+      BBSR=Baysian Best Subset Regression. Compute all potential regression
+      models for given gene by inclusion and exclusion of all potential
+      predictors (TFs with known regulatory effect)
+    </aside>
+  </section>
+  <section data-auto-animate>
+    <p>Sparse solution with BBSR</p>
+    <image width="60%" src="images/bbsr.svg"></image>
+    <aside class="notes">
+      BBSR=Baysian Best Subset Regression. Compute all potential regression
+      models for given gene by inclusion and exclusion of all potential
+      predictors (TFs with known regulatory effect)
+    </aside>
   </section>
 </section>

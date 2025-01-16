@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="bbsr.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.43236634"
+     inkscape:cx="703.10747"
+     inkscape:cy="741.26955"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="1192"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Diamond"
+       refX="5"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path19" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond-2"
+       refX="5"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path19-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond-3"
+       refX="5"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path19-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond-38"
+       refX="5"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path19-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond-1"
+       refX="5"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path19-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond-7"
+       refX="5"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path19-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Diamond-20"
+       refX="5"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Diamond"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.45)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path19-1" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2.86499"
+       id="path1"
+       cx="99.980591"
+       cy="74.617729"
+       rx="17.78644"
+       ry="15.605084" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.30097px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.609372;stroke-dasharray:none"
+       x="89.356216"
+       y="71.255508"
+       id="text1"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="89.356216"
+         y="71.255508"
+         id="tspan5">Gene</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="89.356216"
+         y="80.381721"
+         id="tspan6">Target</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="89.356216"
+         y="89.507935"
+         id="tspan3" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="89.356216"
+         y="98.634148"
+         id="tspan4" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="89.356216"
+         y="107.76036"
+         id="tspan2" /></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3"
+       cx="180.66747"
+       cy="41.630314"
+       r="16.167112" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-8"
+       cx="99.139305"
+       cy="26.586721"
+       r="16.167112" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-5"
+       cx="27.859367"
+       cy="46.083035"
+       r="16.167112" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="21.234198"
+       y="48.463314"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="21.234198"
+         y="48.463314">TF 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="91.722214"
+       y="28.862343"
+       id="text7-1"><tspan
+         sodipodi:role="line"
+         id="tspan7-1"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="91.722214"
+         y="28.862343">TF 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="173.85834"
+       y="43.446938"
+       id="text7-6"><tspan
+         sodipodi:role="line"
+         id="tspan7-14"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="173.85834"
+         y="43.446938">TF 3</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond)"
+       d="m 168.48693,52.260936 -52.1062,16.316833"
+       id="path7" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond)"
+       d="M 99.139305,42.753832 99.98059,59.012645"
+       id="path8" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond)"
+       d="M 38.771954,58.011612 82.19415,74.617727"
+       id="path9" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2.86499"
+       id="ellipse2-06"
+       cx="285.95242"
+       cy="340.80899"
+       rx="17.78644"
+       ry="15.605084" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.30097px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.609372;stroke-dasharray:none"
+       x="275.32803"
+       y="337.44678"
+       id="text1-1"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="275.32803"
+         y="337.44678"
+         id="tspan5-89">Gene</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="275.32803"
+         y="346.573"
+         id="tspan6-8">Target</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="275.32803"
+         y="355.69919"
+         id="tspan3-4" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="275.32803"
+         y="364.82541"
+         id="tspan4-14" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="275.32803"
+         y="373.95163"
+         id="tspan2-3" /></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-98"
+       cx="366.63928"
+       cy="307.82156"
+       r="16.167112" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="359.83017"
+       y="309.63821"
+       id="text7-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan7-14-3"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="359.83017"
+         y="309.63821">TF 3</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond-20)"
+       d="m 354.45876,318.45221 -52.1062,16.31683"
+       id="path7-7" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2.86499"
+       id="ellipse2-5"
+       cx="225.82848"
+       cy="369.85239"
+       rx="17.78644"
+       ry="15.605084" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.30097px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.609372;stroke-dasharray:none"
+       x="215.20409"
+       y="366.49017"
+       id="text1-99"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="215.20409"
+         y="366.49017"
+         id="tspan5-8">Gene</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="215.20409"
+         y="375.61636"
+         id="tspan6-1">Target</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="215.20409"
+         y="384.74258"
+         id="tspan3-8" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="215.20409"
+         y="393.8688"
+         id="tspan4-2" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="215.20409"
+         y="402.99503"
+         id="tspan2-6" /></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-5-3"
+       cx="153.70724"
+       cy="341.31769"
+       r="16.167112" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="147.08208"
+       y="343.69797"
+       id="text7-8"><tspan
+         sodipodi:role="line"
+         id="tspan7-0"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="147.08208"
+         y="343.69797">TF 1</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond-7)"
+       d="m 164.61983,353.24628 43.4222,16.60611"
+       id="path9-3" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2.86499"
+       id="ellipse2"
+       cx="100.92719"
+       cy="201.59546"
+       rx="17.78644"
+       ry="15.605084" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.30097px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.609372;stroke-dasharray:none"
+       x="90.302811"
+       y="198.23323"
+       id="text1-8"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="90.302811"
+         y="198.23323"
+         id="tspan5-5">Gene</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="90.302811"
+         y="207.35944"
+         id="tspan6-7">Target</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="90.302811"
+         y="216.48566"
+         id="tspan3-6" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="90.302811"
+         y="225.61186"
+         id="tspan4-1" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="90.302811"
+         y="234.73808"
+         id="tspan2-8" /></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-9"
+       cx="181.61406"
+       cy="168.60803"
+       r="16.167112" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-5-7"
+       cx="28.805956"
+       cy="173.06076"
+       r="16.167112" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="22.180788"
+       y="175.44104"
+       id="text7-9"><tspan
+         sodipodi:role="line"
+         id="tspan7-5"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="22.180788"
+         y="175.44104">TF 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="174.80492"
+       y="170.42465"
+       id="text7-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan7-14-2"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="174.80492"
+         y="170.42465">TF 3</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond-2)"
+       d="m 169.43352,179.23865 -52.1062,16.31683"
+       id="path7-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond-2)"
+       d="m 39.718543,184.98933 43.4222,16.60611"
+       id="path9-4" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2.86499"
+       id="ellipse2-2"
+       cx="102.81006"
+       cy="360.05511"
+       rx="17.78644"
+       ry="15.605084" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.30097px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.609372;stroke-dasharray:none"
+       x="92.185684"
+       y="356.6929"
+       id="text1-7"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="92.185684"
+         y="356.6929"
+         id="tspan5-7">Gene</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="92.185684"
+         y="365.81912"
+         id="tspan6-9">Target</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="92.185684"
+         y="374.94531"
+         id="tspan3-3" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="92.185684"
+         y="384.07153"
+         id="tspan4-19" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="92.185684"
+         y="393.19775"
+         id="tspan2-86" /></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-8-28"
+       cx="101.96878"
+       cy="312.02411"
+       r="16.167112" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-5-6"
+       cx="30.688847"
+       cy="331.52042"
+       r="16.167112" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="24.063679"
+       y="333.9007"
+       id="text7-0"><tspan
+         sodipodi:role="line"
+         id="tspan7-2"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="24.063679"
+         y="333.9007">TF 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="94.551682"
+       y="314.29974"
+       id="text7-1-48"><tspan
+         sodipodi:role="line"
+         id="tspan7-1-6"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="94.551682"
+         y="314.29974">TF 2</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond-3)"
+       d="m 101.96879,328.19122 0.84128,16.25882"
+       id="path8-0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond-3)"
+       d="m 41.601427,343.449 43.4222,16.60612"
+       id="path9-0" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2.86499"
+       id="ellipse2-4"
+       cx="283.24286"
+       cy="134.48212"
+       rx="17.78644"
+       ry="15.605084" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.30097px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.609372;stroke-dasharray:none"
+       x="272.61847"
+       y="131.1199"
+       id="text1-6"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="272.61847"
+         y="131.1199"
+         id="tspan5-0">Gene</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="272.61847"
+         y="140.24611"
+         id="tspan6-6">Target</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="272.61847"
+         y="149.37233"
+         id="tspan3-61" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="272.61847"
+         y="158.49854"
+         id="tspan4-8" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="272.61847"
+         y="167.62476"
+         id="tspan2-4" /></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-8-3"
+       cx="282.40155"
+       cy="86.451111"
+       r="16.167112" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="274.98447"
+       y="88.72673"
+       id="text7-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan7-1-35"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="274.98447"
+         y="88.72673">TF 2</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond-38)"
+       d="m 282.40156,102.61822 0.84128,16.25881"
+       id="path8-07" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2.86499"
+       id="ellipse2-0"
+       cx="276.0238"
+       cy="278.66675"
+       rx="17.78644"
+       ry="15.605084" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.30097px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.609372;stroke-dasharray:none"
+       x="265.39941"
+       y="275.30453"
+       id="text1-9"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="265.39941"
+         y="275.30453"
+         id="tspan5-73">Gene</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="265.39941"
+         y="284.43076"
+         id="tspan6-72">Target</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="265.39941"
+         y="293.55695"
+         id="tspan3-60" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="265.39941"
+         y="302.68317"
+         id="tspan4-16" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="265.39941"
+         y="311.80939"
+         id="tspan2-5" /></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-7"
+       cx="356.71066"
+       cy="245.67937"
+       r="16.167112" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2.565;stroke-dasharray:none"
+       id="path3-8-5"
+       cx="275.18253"
+       cy="230.63577"
+       r="16.167112" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="267.76541"
+       y="232.91139"
+       id="text7-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan7-1-1"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="267.76541"
+         y="232.91139">TF 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.38683px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.533074;stroke-dasharray:none"
+       x="349.90155"
+       y="247.49599"
+       id="text7-6-4"><tspan
+         sodipodi:role="line"
+         id="tspan7-14-6"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.533074;stroke-dasharray:none"
+         x="349.90155"
+         y="247.49599">TF 3</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond-1)"
+       d="m 344.53014,256.30998 -52.1062,16.31683"
+       id="path7-0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.265;stroke-dasharray:2.53, 1.265;stroke-dashoffset:0;marker-end:url(#Diamond-1)"
+       d="m 275.18252,246.80287 0.84128,16.25882"
+       id="path8-7" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:2.86499"
+       id="path1-3"
+       cx="191.46268"
+       cy="250.40009"
+       rx="17.78644"
+       ry="15.605084" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.30097px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.609372;stroke-dasharray:none"
+       x="179.47787"
+       y="248.24925"
+       id="text1-80"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="179.47787"
+         y="248.24925"
+         id="tspan5-6">Gene</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="179.47787"
+         y="257.37546"
+         id="tspan6-81">Target</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="179.47787"
+         y="266.50168"
+         id="tspan3-9" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="179.47787"
+         y="275.6279"
+         id="tspan4-89" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.609372;stroke-dasharray:none"
+         x="179.47787"
+         y="284.75409"
+         id="tspan2-7" /></text>
+  </g>
+</svg>
