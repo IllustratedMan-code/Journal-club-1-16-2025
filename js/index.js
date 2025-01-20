@@ -12,13 +12,6 @@ import "reveal.js-drawer/dist/drawer.css";
 import "reveal.js-pointer/dist/pointer.css";
 import "./styles.css";
 
-Reveal.configure({
-  keyboard: {
-    40: "next",
-    38: "prev",
-  },
-});
-
 function loadIncludes() {
   return Promise.all(
     [...document.querySelectorAll("include")].map((include) => {
@@ -29,12 +22,21 @@ function loadIncludes() {
     })
   );
 }
-loadIncludes().then(() => {
-  Reveal.initialize({
-    hash: true,
-    transition: "none",
-    history: "true",
-
-    plugins: [Markdown, Highlight, Drawer, Pointer, Notes, Math.KaTeX],
+loadIncludes()
+  .then(() => {
+    Reveal.initialize({
+      hash: true,
+      transition: "none",
+      history: "true",
+      pdfSeparateFragments: false,
+      plugins: [Markdown, Highlight, Drawer, Pointer, Notes, Math.KaTeX],
+    });
+  })
+  .then(() => {
+    if (/[?&]print-pdf/.test(location.search)) {
+      console.log("shownotes");
+      Reveal.configure({
+        showNotes: true,
+      });
+    }
   });
-});
